@@ -1,0 +1,17 @@
+#pragma once
+
+#include "ClientPatternsLinux.h"
+#include "EntitySystemPatternsLinux.h"
+#include "FileSystemPatternsLinux.h"
+#include "GameRulesPatternsLinux.h"
+#include "MemAllocPatternsLinux.h"
+#include "PanelPatternsLinux.h"
+#include "PanelStylePatternsLinux.h"
+#include "PanoramaImagePanelPatternsLinux.h"
+#include "PanoramaLabelPatternsLinux.h"
+#include "PanoramaUiEnginePatternsLinux.h"
+#include "PanoramaUiPanelPatternsLinux.h"
+#include "PlantedC4PatternsLinux.h"
+#include "SdlPatternsLinux.h"
+#include "SoundSystemPatternsLinux.h"
+#include "TopLevelWindowPatternsLinux.h"

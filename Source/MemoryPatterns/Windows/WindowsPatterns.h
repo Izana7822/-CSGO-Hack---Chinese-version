@@ -1,0 +1,17 @@
+#pragma once
+
+#include "ClientPatternsWindows.h"
+#include "EntitySystemPatternsWindows.h"
+#include "FileSystemPatternsWindows.h"
+#include "GameRulesPatternsWindows.h"
+#include "MemAllocPatternsWindows.h"
+#include "PanelPatternsWindows.h"
+#include "PanelStylePatternsWindows.h"
+#include "PanoramaImagePanelPatternsWindows.h"
+#include "PanoramaLabelPatternsWindows.h"
+#include "PanoramaUiEnginePatternsWindows.h"
+#include "PanoramaUiPanelPatternsWindows.h"
+#include "PlantedC4PatternsWindows.h"
+#include "SdlPatternWindows.h"
+#include "SoundSystemPatternsWindows.h"
+#include "TopLevelWindowPatternsWindows.h"
